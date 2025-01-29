@@ -6,7 +6,7 @@ subtitle: <a href='#'>UIUC Physics</a>. Address. jh141@illinois.edu. We rise by 
 
 profile:
   align: right
-  image: dolomites.jpeg
+  image: dolomites_large.jpeg
   image_circular: false # crops the image to make it circular
   more_info: 
     # <p>555 your office number</p>
